@@ -1,0 +1,13 @@
+
+.borrar , .editar{cursor:pointer;}
+
+#contenedor {margin-top: 10px;}
+
+body {
+background:url("../imagenes/unid.jpg") no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
